@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Add your comments here
+ * Hangman Manager class
  */
 public class HangmanManager {
     /* All currently considered words */
