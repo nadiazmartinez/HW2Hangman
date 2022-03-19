@@ -7,6 +7,8 @@
 import java.util.*;
 import java.io.*;
 
+//no editing needed
+
 public class HangmanMain  {
     public static final String DICTIONARY_FILE = "dictionary.txt";
     public static final boolean SHOW_COUNT = false;  // show # of choices left
