@@ -4,7 +4,7 @@ import java.util.*;     // Collections
 import java.io.*;       // File access
 
 /**
- * Modify this comment
+ * Hangman Manger Test
  */
 public class HangmanManagerTest {
 
